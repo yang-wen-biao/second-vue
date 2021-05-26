@@ -11,6 +11,8 @@
         </el-dropdown>
       </div>
       <img class="image-style" src="~@/assets/logo.png" height="41" width=auto >
+
+
       <h1 class="div-style">数据结构精品课程</h1>
 
       <el-carousel class="roll-style">
